@@ -1,0 +1,3 @@
+{
+  "extends": "@ldev-ignite-ui/eslint-config"
+}
