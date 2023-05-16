@@ -1,5 +1,11 @@
 # @ldev-ignite-ui/tokens
 
+## 3.0.0
+
+### Major Changes
+
+- Adds white space
+
 ## 2.0.0
 
 ### Major Changes
