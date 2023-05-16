@@ -29,7 +29,7 @@ jobs:
         id: changesets
         uses: changesets/action@v1
         with:
-          publish: npm run relaase
+          publish: npm run release
         env:
           TURBO_TOKEN: ${{ secrets.TURBO_TOKEN }}
           TURBO_TEAM: ${{ secrets.TURBO_TEAM }}
