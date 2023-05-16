@@ -1,5 +1,11 @@
 # @ldev-ignite-ui/react
 
+## 2.0.1
+
+### Patch Changes
+
+- Add option to pass ref to TextInput and adjusts to styling
+
 ## 2.0.0
 
 ### Major Changes
