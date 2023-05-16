@@ -1,3 +1,4 @@
+// Export everything from the components folder
 export * from './components/Box'
 export * from './components/Text'
 export * from './components/Heading'
